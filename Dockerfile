@@ -1,4 +1,4 @@
-FROM f0rc3/barcodebuddy:latest
+FROM sabourinj/barcodebuddy:latest
 
 # Build arguments
 ARG BUILD_ARCH
