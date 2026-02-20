@@ -1,9 +1,9 @@
 ---
 squash: false
 build_from:
-  arm64: f0rc3/barcodebuddy:latest
-  aarch64: f0rc3/barcodebuddy:latest
-  amd64: f0rc3/barcodebuddy:latest
-  armv7: f0rc3/barcodebuddy:latest
-  i386: f0rc3/barcodebuddy:latest
+  arm64: sabourinj/barcodebuddy:latest
+  aarch64: sabourinj/barcodebuddy:latest
+  amd64: sabourinj/barcodebuddy:latest
+  armv7: sabourinj/barcodebuddy:latest
+  i386: sabourinj/barcodebuddy:latest
 args: {}
